@@ -6,4 +6,4 @@ Clinical coding is the task of transforming medical records, usually presented a
 
 ## Step-By-Step Guide
 
-For prerequisites, environment setup, step-by-step guide and instructions, please refer to the [QuickStart Guide]().
+For prerequisites, environment setup, step-by-step guide and instructions, please refer to the [QuickStart Guide](https://quickstarts.snowflake.com/guide/llm_assisted_medical_coding_extraction_for_healthcare/index.html?index=..%2F..index#0).
