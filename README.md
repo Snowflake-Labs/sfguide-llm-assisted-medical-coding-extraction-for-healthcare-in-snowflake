@@ -1,4 +1,4 @@
-# LLM Assisted Medical Coding Extraction for Healthcare
+# LLM Assisted Medical Coding Extraction for Healthcare in Snowflake
 
 ## Overview
 
